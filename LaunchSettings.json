@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntegrationService": {
+      "commandName": "Project",
+      "commandLineArgs": "--console"
+    }
+  }
+}

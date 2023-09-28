@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="79f40c77-ecfb-45d7-85f3-cd68c9060a3b" ChangeDateTime="10/19/2021 12:06:43">
+    <Property Name="ElementName" Value="[Integration].[MessageIn].[IsMessageOut]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Integration].[MessageIn]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IsImportMessage" />
+  </Operation>
+</Operations>
